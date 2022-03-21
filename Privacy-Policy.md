@@ -1,4 +1,4 @@
-*Last edit: March 21, 2022*
+*Last updated: March 21, 2022*
 ### Privacy Policy
 
 By using this bot you agree that you have read and agree to this policy.
