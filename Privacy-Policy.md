@@ -34,7 +34,7 @@ Listed below are the different types of information we collect and delete after 
 
 ### How do we use this information?
 
-- User IDs and usernames are stored for identification purposes, and are solely used to associate a Discord user entity with a guild.
+- User IDs and usernames for the owner of a guild are stored for identification purposes, and are solely used to associate a Discord user entity with a guild they have created.
 - Guild IDs and names are used to associate settings configurations and module data with a guild. All general settings/module data and music data is linked to the guild ID.
 - We **DO NOT** sell or disclose any information to third parties.
 
@@ -49,6 +49,7 @@ Any direct modification to the database is performed by the bot itself. When dat
 
 ### Data Deletion/Revelation Policy
 
-- Users can request to view all data associated with their guild or their user ID by contacting us on our support server: https://dsc.gg/hermandcs/.
+- Users can request to view all data associated with their guild ID, user ID, or username* by contacting us on our support server: https://dsc.gg/hermandcs/.
+* *User IDs are stored when that user is the owner of a guild the bot is added to. This data is tied to the guild ID and is treated as guild data.*
 - Certain data, such as the blacklist state of your guild and your premium history, may be deleted with the discretion of a manager.
 - You may request for your data to be deleted by contacting us on our support server: https://dsc.gg/hermandcs/.
