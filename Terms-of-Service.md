@@ -7,7 +7,7 @@ By using this bot you agree that you have read and agree to be bound by these Te
 
 These are our "Terms of Service" which outlines the use of the data and information which you provide to us. The terms "we", "us" and "our" refer to Galaxia Studios and "bot", "Service" and "services" refers to the Discord bot itself.
 
-These Terms may be updated at any time. Changes in these Terms will be effective immediately, and we will notify our users before any major changes. Please note notification of any change, and the method we use for disclosure is at our sole discretion.
+These Terms may be updated at any time. Changes in these Terms will be effective immediately, and we will notify our users before any major changes. Please note notification of any change, and the method we use for disclosure is at our sole discretion. By continuing to access or use our Service after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use the Service.
 
 ### Abuse
 
