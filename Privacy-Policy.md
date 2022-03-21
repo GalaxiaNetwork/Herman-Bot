@@ -49,7 +49,7 @@ Any direct modification to the database is performed by the bot itself. When dat
 
 ### Data Deletion/Revelation Policy
 
-- Users can request to view all data associated with their guild ID, user ID, or username* by contacting us on our support server: https://dsc.gg/hermandcs/.
-* *User IDs are stored when that user is the owner of a guild the bot is added to. This data is tied to the guild ID and is treated as guild data.*
+- Users can request to view all data associated with their guild ID, user ID, or username by contacting us on our support server: https://dsc.gg/hermandcs/.
+- * *User IDs are stored when that user is the owner of a guild the bot is added to. This data is tied to the guild ID and is treated as guild data.*
 - Certain data, such as the blacklist state of your guild and your premium history, may be deleted with the discretion of a manager.
 - You may request for your data to be deleted by contacting us on our support server: https://dsc.gg/hermandcs/.
