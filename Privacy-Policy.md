@@ -1,3 +1,4 @@
+*Effective: April 1, 2022*
 *Last updated: March 21, 2022*
 ### Privacy Policy
 
