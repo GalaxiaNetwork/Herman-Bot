@@ -7,7 +7,7 @@ By using this bot you agree that you have read and agree to this policy.
 
 This is our "Privacy Policy" which outlines the use of the data and information which you provide to us. The terms "we", "us" and "our" refer to Galaxia Studios and "bot" refers to the Discord bot itself.
 
-This policy may be updated at any time. Changes in this policy will be effective immediately, and we will notify our users before any major policy changes. Please note notification of any change, and the method we use is at our sole discretion.
+This policy may be updated at any time. Changes in this policy will be effective immediately, and we will notify our users before any major policy changes. Please note notification of any change, and the method we use for disclosure is at our sole discretion.
 
 ### Privacy Statement
 
