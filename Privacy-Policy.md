@@ -1,6 +1,6 @@
 *Effective: April 1, 2022*
 
-*Last updated: March 21, 2022*
+*Last updated: April 17, 2022*
 ### Privacy Policy
 
 By using this bot you agree that you have read and agree to this policy.
@@ -24,6 +24,7 @@ Listed below are the different types of information we collect and permanently s
 - The user ID of the owner of your guild, which is provided upon the bot being added to your server.
 - The username of the owner of your guild, which is provided upon the bot being added to your server.
 - Settings for your guild, such as: "welcome" messages, "goodbye" messages, configured channels for specific modules, whether or not a command is enabled for use in your guild, configured autoroles for your guild, whether or not a specific module is enabled in your guild, a custom description for your guild.
+- Your guild's premium status, start/end date, ID of the user who activated premium, the activation code that was used, and premium tier.
 
 Other information we collect is classified as "temporary" or "cached" data, meaning it is stored in a Redis database and then deleted after **30 days**. You may still ask for this data to be erased by contacting us. This data is not necessary for the function of the bot, and certain data is permanently erased upon rebooting certain services, such as the music queue, its playing state, its assigned channel, and all audio sync/frame data.
 
@@ -36,7 +37,7 @@ Listed below are the different types of information we collect and delete after 
 
 ### How do we use this information?
 
-- User IDs and usernames for the owner of a guild are stored for identification purposes, and are solely used to associate a Discord user entity with a guild they have created.
+- User IDs and usernames for the owner of a guild are stored for identification purposes, and are solely used to associate a Discord user entity with a guild they have created, or a premium subscription they have activated.
 - Guild IDs and names are used to associate settings configurations and module data with a guild. All general settings/module data and music data is linked to the guild ID.
 - We **DO NOT** sell or disclose any information to third parties.
 
