@@ -27,6 +27,7 @@ Listed below are the different types of information we collect and permanently s
 - Your guild's Club Herman status, start/end date, ID of the user who activated the membership, the activation code that was used, billing source, membership activity logs (for customer support), and tier.
 - All Club Herman data associated with your user ID (membership status, tier, number of guilds activated, max possible number of guilds activated, total months subscribed, current membership streak, highest membership streak, billing source, membership activity logs (for customer support), start/end date).
 - All leveling/chatlevels data associated with your user ID in a specific guild (level, xp earned, xp needed to level up, total xp earned).
+- All playlist data associated with your user ID (description, privacy setting, number of tracks, track list).
 
 Other information we collect is classified as "temporary" or "cached" data, meaning it is stored in a Redis database and then deleted after **30 days**. You may still ask for this data to be erased by contacting us. This data is not necessary for the function of the bot, and certain data is permanently erased upon rebooting certain services, such as the music queue, its playing state, its assigned channel, all audio sync/frame data, etc.
 
@@ -40,7 +41,7 @@ Listed below are the different types of information we collect and delete after 
 
 ### How do we use this information?
 
-- User IDs and usernames are stored for identification purposes, and are solely used to associate a Discord user entity with a guild they have created, any leveling/chatlevels data associated with the user, or a subscription they have activated.
+- User IDs and usernames are stored for identification purposes, and are solely used to associate a Discord user entity with a guild they have created, any leveling/chatlevels data associated with the user, any playlist data associated with the user, or a Club Herman subscription they have activated.
 - Guild IDs and names are used to associate settings configurations and module data with a guild. All general settings/module data and music data is linked to the guild ID.
 - We **DO NOT** sell or disclose any information to third parties.
 
